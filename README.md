@@ -1,4 +1,4 @@
 puzzles
 =======
 
-An adorable puzzle maker.
+An adorable puzzlewuzzle maker.
